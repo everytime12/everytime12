@@ -1,5 +1,5 @@
 [![everytime12's GitHub stats](https://github-readme-stats.vercel.app/api?username=everytime12&show_icons=true&theme=highcontrast)](https://github.com/everytime12/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everytime12&layout=compact_repo=github-readme-stats,everytime12.github.io)](https://github.com/everytime12/github-readme-stats)
 <!--
 **everytime12/everytime12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
